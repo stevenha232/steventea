@@ -1,0 +1,9 @@
+{
+  "name": "@stevenha232/steventea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@stevenha232",
+  "repository": "https://github.com/stevenha232/steventea.git",
+  "license": "ISC"
+}
